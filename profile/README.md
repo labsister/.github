@@ -1,9 +1,13 @@
 <div align="center">
 
 ```text
- /\_/\ 
-( o.o )
- > ^ < 
+       /\_____/\
+      /  o   o  \
+     ( ==  ^  == )
+      )         (
+     (           )
+    ( (  )   (  ) )
+   (__(__)___(__)__)
 ```
 
 *meow~ welcome to lab sister!*
