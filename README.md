@@ -1,15 +1,17 @@
 <div align="center">
 
 ```text
-  /\_/\   ____________________________
- ( o.o ) < meow~ welcome to lab sister! >
-  > ^ <   ----------------------------
+ /\_/\ 
+( o.o )
+ > ^ < 
 ```
+
+*meow~ welcome to lab sister!*
 
 # Laboratorium Sistem Paralel dan Terdistribusi
 **Sekolah Teknik Elektro dan Informatika — Institut Teknologi Bandung**
 
-`Distributed Systems` • `High-Performance Computing` • `Operating Systems` • `Cloud Infrastructure`
+`Distributed Systems` • `Computer Networks` • `Operating Systems` • `Cloud Infrastructure` • `High-Performance Computing`
 
 ---
 
